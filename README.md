@@ -1,4 +1,4 @@
-# Hi there, I’m Kate! 👋 
+# Hi there, I’m Kate! 
 - ✨️ I’m interested in reading fantasy stories and coding in order to become a profound Frontend developer. Mostly focused on learning foreign languages and mastering my web-development skills (HTML, CSS, JavaScript);
 - 🌱 I’m currently learning JavaScript with the help of [The Complete JavaScript Course 2022](https://github.com/jonasschmedtmann/complete-javascript-course);
 - 📚 Advanced level of English (C1), eager to learn and develop in the direction of React;
